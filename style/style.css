@@ -1,0 +1,20 @@
+body{
+  background-color: #333;
+}
+.parent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#lamp{
+  font-size: 200px;
+  display: block;
+  margin: 20px;
+  text-align: center;
+}
+button{
+  padding: 10px 15px;
+  text-transform: capitalize;
+  margin: 10px;
+}
